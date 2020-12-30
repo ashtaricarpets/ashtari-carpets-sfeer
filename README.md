@@ -38,6 +38,18 @@ Install sqip for generating the Low Quality Image Previews.
 npm install -g sqip-cli@canary
 ```
 
+Install Go
+
+```sh
+brew install go
+```
+
+Install Hugo
+
+```
+brew install hugo
+```
+
 
 ## Deployment
 
