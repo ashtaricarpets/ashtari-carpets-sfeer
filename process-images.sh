@@ -27,7 +27,7 @@ do
 
 		if [ $a \> $b ]; then
 			echo "$original is younger than lqip/$filename.svg"
-			sqip -i $file -n 100 -b 12 --silent -o "$lqip"
+			# sqip -i $file -n 100 -b 12 --silent -o "$lqip"
 		fi
 	else
 		echo "$lqip doesn't exist"

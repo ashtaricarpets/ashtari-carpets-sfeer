@@ -14,6 +14,10 @@ git pull origin master --no-edit
 echo -e "${YELLOW}\nPulling images...${NOCOLOR}"
 aws s3 sync s3://ashtari-carpets-sfeer static/images/ --exclude ".*"
 
+# Update Hugo theme
+echo -e "${YELLOW}\nUpdating Hugo theme...${NOCOLOR}"
+hugo mod get -u
+
 # Done
 echo -e "${GREEN}\nDone. Everything is up to date on this computer.${NOCOLOR}"
 echo -e "${GREEN}You can close this window.\n${NOCOLOR}"
