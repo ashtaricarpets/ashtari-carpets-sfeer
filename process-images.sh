@@ -18,7 +18,7 @@ do
 
 	lqip="$imgDir/lqip/$filename.svg"
 
-	exiftool -q "$file" -if '$ImageWidth > 1400 || $ImageHeight > 1400 and !print "$Directory/$Filename\0"' |  xargs -0 -R 2 -I "%" convert -resize "$maxSizex$maxSize>" "%" "%"
+	exiftool -q "$file" -if '$ImageWidth > 1400 || $ImageHeight > 1400 and !print "$Directory/$Filename\0"' | xargs -0 -R 2 -I "%" convert -resize "$maxSizex$maxSize>" "%" "%"
 
 	if test -f $lqip; then
 
