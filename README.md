@@ -1,11 +1,11 @@
-# kristoffelboghaert.be
+# ashtaricarpets.com
 
 ## Installation
 
 Clone this repository
 
 ```sh
-git clone git@github.com:pieterjandesmedt/kristoffelboghaert.git
+git clone git@github.com:ashtaricarpets/ashtari-carpets-sfeer.git
 ```
 
 Install the AWS CLI to sync images.
