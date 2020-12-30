@@ -12,7 +12,7 @@ git pull origin master --no-edit
 
 # Sync images with AWS
 echo -e "${YELLOW}\nPulling images...${NOCOLOR}"
-aws s3 sync s3://ashtari-carpets-sfeer static/images/ --exclude ".*" --size-only
+aws s3 sync s3://ashtari-carpets-sfeer static/images/ --exclude ".*"
 
 # Update Hugo theme
 echo -e "${YELLOW}\nUpdating Hugo theme...${NOCOLOR}"

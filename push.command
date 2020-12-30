@@ -27,7 +27,7 @@ git push
 
 # Sync images with AWS
 echo -e "${YELLOW}\nPushing images...${NOCOLOR}"
-aws s3 sync static/images/ s3://ashtari-carpets-sfeer --exclude "lqip/*.*" --exclude ".*" --size-only
+aws s3 sync static/images/ s3://ashtari-carpets-sfeer --exclude "lqip/*.*" --exclude ".*"
 
 # Done
 echo -e "${GREEN}\nDone. The site will be online in a minute or so.${NOCOLOR}"
