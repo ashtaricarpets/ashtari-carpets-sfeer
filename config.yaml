@@ -24,6 +24,7 @@ taxonomies:
 module:
   imports:
     path: github.com/pieterjandesmedt/hugo-theme-ashtari-carpets-sfeer
+    # path: "../../../hugo-themes/ashtari-carpets-sfeer"
 
 languages:
   nl:
@@ -217,6 +218,8 @@ params:
     enable: true
     id: ''
   features:
+    enable: true
+  instafeed:
     enable: true
   social:
     facebook: 'https://www.facebook.com/Ashtari-Moderne-tapijten-kelims-50898229294/'
