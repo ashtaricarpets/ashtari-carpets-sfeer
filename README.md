@@ -20,12 +20,6 @@ Install imagemagick for resizing images.
 brew install imagemagick
 ```
 
-Install exiftool for getting information from images.
-
-```sh
-brew install exiftool
-```
-
 Install node.js to install and run sqip.
 
 ```sh
@@ -50,9 +44,6 @@ Install Hugo
 brew install hugo
 ```
 
-
-## Deployment
-
 ### Configure AWS
 
 Create an environment variables file `.env` with these contents:
@@ -63,6 +54,29 @@ AWS_SECRET_ACCESS_KEY=<keyValue>
 AWS_DEFAULT_REGION=eu-west-3
 ```
 
+### Fetch theme changes and AWS images
+
+Run the pull command to get changes in the theme, if any. Pull also synchronizes the images from AWS to your computer.
+
+```sh
+./pull.command
+```
+
+## Change site
+
+Run the start command to start a Hugo server.
+
+```sh
+./start.command
+```
+
+Make your changes. Images get saved in the `static/images/` directory.
+
+## Deployment
+
 Run the push command to deploy.
 
-##
+```sh
+./push.command
+```
+
