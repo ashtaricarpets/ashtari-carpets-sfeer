@@ -13,7 +13,7 @@ date: 2017-01-20T18:55:29+01:00
 title: Erbil Tezcan
 description: carpet designer - Wool and silk
 category: design stories
-banner: erbiltescan_soho_banner.jpg
+banner: erbiltescan_banner.jpg
 
 ---
 

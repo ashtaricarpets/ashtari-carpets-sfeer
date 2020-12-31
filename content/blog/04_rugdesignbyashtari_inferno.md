@@ -19,6 +19,7 @@ tags:
 banner: rugdesignbyashtari_inferno.jpg
 description: carpet designers - Inferno
 category: design stories
+draft: true
 
 ---
 

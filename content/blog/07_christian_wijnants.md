@@ -15,7 +15,7 @@ images:
 - CW_sfeer_4.jpg
 - CW_sfeer_5.jpg
 description: mode ontwerper - carpet blue and white leaves
-banner: christianwynants_home_staand.jpg
+banner: CW_sfeer_banner.jpg
 
 ---
 

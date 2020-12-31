@@ -14,7 +14,7 @@ tags:
 - bespoke carpets
 - tapijten op maat
 - maatwerk
-banner: timvansteenbergen_picture.jpg
+banner: timvansteenbergen_banner.jpg
 description: mode ontwerper - Movement in blue
 category: design stories
 

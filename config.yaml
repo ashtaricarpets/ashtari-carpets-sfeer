@@ -98,6 +98,9 @@ languages:
       - name: "Pers"
         url : "category/ashtari-in-de-pers"
         weight: 10
+      - name: "Diensten"
+        url: "category/diensten"
+        weight: 11
       - name: "Contact"
         url : "contact"
         weight: 15
@@ -178,6 +181,9 @@ languages:
       - name: "Press"
         url : "category/press"
         weight: 10
+      - name: "Services"
+        url: "category/services"
+        weight: 11
       - name: "Contact"
         url : "contact"
         weight: 15

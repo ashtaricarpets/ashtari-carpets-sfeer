@@ -19,18 +19,17 @@ tags:
 - tapijten op maat
 - maatwerk
 
-banner: New_Heriz_designer_tapijt_op_maat_by_Ashtari_AC_1155_recto.jpg
+banner: new_heriz_green_banner.jpg
 description: carpet designers - New heriz
 category: design stories
 
 ---
+<!--more-->
 
 ## NEW HERIZ Collectie
 Verleden wordt heden !
 
 Het New Heriz tapijt is een moderne interpretatie en vormgeving van een klassiek tapijt, handgeknoopt in wol en zijde – geïnspireerd op een oeroud Perzisch patroon.
-
-<!--more-->
 
 De fijne knoopdichtheid, de natuurlijke schakering van de kleuren en de materialen geven dit tapijt een unieke dimensie.
 
