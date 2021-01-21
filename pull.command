@@ -1,5 +1,10 @@
 #! /bin/bash
 
+# Set pretty colors
+GREEN="\033[0;32m"
+YELLOW="\033[1;33m"
+NOCOLOR="\033[0m"
+
 # Set current working directory to script directory
 cd "${0%/*}"
 
