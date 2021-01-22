@@ -1,15 +1,14 @@
 ---
-title:  Etnicraft Made by Ashtari
+title:  Ethnicraft Made by Ashtari
 date: 2021-01-21T16:03:36+01:00
 author: Wendy Guns
 category: design stories
 description:
 banner: 21718_Black_Dots_kilim_rug_1_WEB.jpg
 tags:
-- etnicraft
+- ethnicraft
 - kilim
 - hand made
-draft: true
 ---
 
 ## Hand crafted quality for the first kilim collection of Etnicraft made by Ashtari
