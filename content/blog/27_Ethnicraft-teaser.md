@@ -1,5 +1,5 @@
 ---
-title:  Ethnicraft Teaser
+title:  Ethnicraft x Ashtari Kilim collection
 date: 2021-01-22T11:56:11+01:00
 author: Wendy Guns
 category: design stories
