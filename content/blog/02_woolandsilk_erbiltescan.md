@@ -19,9 +19,9 @@ banner: erbiltescan_banner.jpg
 
 ## De gelauwerde collecties van Erbil Tezcan spreken tot de verbeelding.
 
-Wij kunnen met fierheid melden dat wij sinds 2014 een samenwerking hebben aangegaan met **Wool and Silk rugs**, een Amerikaanse producent uit New Jersey, New York. ‘Wool and Silk rugs’ produceert handgeknoopte designtapijten in de beste kwaliteit en in de hoogste afwerkingsgraad. De gelauwerde collecties van Erbil Tezcan spreken tot de verbeelding en stralen een bepaalde sfeer uit.
-
+Wij kunnen met fierheid melden dat wij sinds 2014 een samenwerking hebben aangegaan met **Wool and Silk rugs**, een Amerikaanse producent uit New Jersey, New York. 
 <!--more-->
+‘Wool and Silk rugs’ produceert handgeknoopte designtapijten in de beste kwaliteit en in de hoogste afwerkingsgraad. De gelauwerde collecties van Erbil Tezcan spreken tot de verbeelding en stralen een bepaalde sfeer uit.
 
 Reeds verschillende jaren heeft Wool and Silk de Carpet Design Awards gewonnen met één van zijn collectiestukken in zijn genre. Landschappen en elementen uit het alledaagse leven zijn een inspiratiebron. Kleur en gevoel speelt een belangrijke rol. Voor ons is het een ware beleving als je naar zijn tapijten kijkt en eraan voelt. De link met de schilderkunst is niet ver af. Dit gecombineerd met een fijne tot zeer fijne knoopdichtheid en de beste grondstoffen maakt van deze tapijten topstukken voor de vloer of wand.
 
