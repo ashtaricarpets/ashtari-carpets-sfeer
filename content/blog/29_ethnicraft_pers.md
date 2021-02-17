@@ -10,4 +10,4 @@ tags:
 - pers
 ---
 
-{{< images "pers_ethnicraft.jpg">}}
+{{< images "ethnicraft_pers_highres.jpg">}}
