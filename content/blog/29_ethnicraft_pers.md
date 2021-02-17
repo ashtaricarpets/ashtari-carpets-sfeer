@@ -9,4 +9,4 @@ tags:
 - ethnicraft
 ---
 
-{{< images "ethnicraft_pers_highres.jpg">}}
+{{< images "Ethnicraft_pers_1.jpg" "Ethnicraft_pers_2.jpg" >}}
