@@ -6,6 +6,10 @@ category: design stories
 description:
 videobanner: 503038675 3800x2138
 isHiddenOverlay: true
+tags:
+- Ethnicraft
+- kilimcollection
+- terracotta
 ---
 
 All rugs in this new collection are hand-made in Pakistan by experienced artisans with knowledge that goes back more than 150 years. As such, each rug carries its own story with reference to the past of traditional craftsmanship and a transition to the future with timeless colors and patterns.
