@@ -1,5 +1,5 @@
 ---
-title: We win the international Carpet Design Award 2021 !!!
+title: We won the international Carpet Design Award 2021 !!!
 date: 2021-04-29
 author: Wendy Guns
 category: event
@@ -11,7 +11,7 @@ tags:
 - carpet blue/green
 ---
 
-Ashtari Carpets wins the **international Carpet Design Award 2021** in the category **“Best Modern Design Deluxe”** with the rug “Carpet Blue / Green” designed by Muller van Severen x Ashtari Carpets. We are deeply pleased and honored to receive this prestigious award. Every day we work with passion on our collections, always trying to be innovative and open-minded. 
+Ashtari Carpets won the **international Carpet Design Award 2021** in the category **“Best Modern Design Deluxe”** with the rug “Carpet Blue / Green” designed by Muller van Severen x Ashtari Carpets. We are deeply pleased and honored to receive this prestigious award. Every day we work with passion on our collections, always trying to be innovative and open-minded. 
 <!--more-->
 Thank you to the designers @mullervanseveren and thank you @valerie_traan_gallery for this fantastic collaboration. Thank you to our weavers and collegues in Nepal. Real craftmanship and pure art. Keep on making beautiful rugs !
 
