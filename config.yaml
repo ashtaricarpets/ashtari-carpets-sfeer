@@ -1,16 +1,16 @@
-title: "Ashtari Carpets"
+title: 'Ashtari Carpets'
 # theme: "hugo-theme-ashtari-carpets-sfeer"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname: "ashtari"
+disqusShortname: 'ashtari'
 
 # Enable Google Analytics by entering your tracking code
-googleAnalytics: "UA-91208216-1"
+googleAnalytics: 'UA-91208216-1'
 
 disableHugoGeneratorInject: true
 disablePathToLower: true
 
-DefaultContentLanguage: "nl"
+DefaultContentLanguage: 'nl'
 DefaultContentLanguageInSubdir: false
 EnableMissingTranslationPlaceholders: true
 
@@ -18,230 +18,233 @@ EnableMissingTranslationPlaceholders: true
 paginate: 100
 
 taxonomies:
-  categories: category
-  tags: tags
+    categories: category
+    tags: tags
 
 module:
-  imports:
-    path: github.com/pieterjandesmedt/hugo-theme-ashtari-carpets-sfeer
-    # path: "../../../hugo-themes/ashtari-carpets-sfeer"
+    imports:
+        # path: github.com/pieterjandesmedt/hugo-theme-ashtari-carpets-sfeer
+        path: '../../../hugo-themes/ashtari-carpets-sfeer'
+
+caches:
+    getjson:
+        dir: ':cacheDir/:project'
+        maxAge: 10s
 
 languages:
-  nl:
-    weight: 1
-    title: "Ashtari Carpets"
-    keywords: "Ashtari Carpets, tapijten, kelims, design, modern, hedendaags"
-    address: >
-      <p><span class="has-text-weight-bold is-uppercase">Ashtari Carpets</span>
-        <a class="has-text-white" href="https://www.google.be/maps/place/Oude+Leeuwenrui+8,+2000+Antwerpen/@51.2267554,4.4038548,16z/" target=_blank>
-        <br>OUDE LEEUWENRUI 8A
-        <br>2000 ANTWERPEN
-        <br>BELGIË
-        </a>
-        <br><br>T <a class="has-text-white" href="tel:003232301770">+32 3 230 17 70</a>
-        <br>F <a class="has-text-white" href="fax:0032184187">+32 3 218 41 87</a>
-        <br><br><span id="mmm"></span>
-        <br><a class="has-text-white" href="https://www.ashtaricarpets.com">www.ashtaricarpets.com</a>
-        <br><br>BTW BE 0567 632 221
-      </p>
-    googletext: "Ashtari is een eigentijds tapijtenhuis in Antwerpen. Winkel & herstelatelier | unieke stukken | exclusieve tapijten op maat | vrijblijvende thuispresentatie"
-
-    recent_posts:
-      enable: true
-      title: "Nieuwsblog"
-      subtitle: "bekijk alle blog posts"
-      url: "/blog"
-    testimonials:
-      enable: true
-      title: "Getuigenissen / realisaties"
-      subtitle: "bekijk alle getuigenissen"
-      url: "/testimonials"
-    designers:
-      enable: true
-      title: "Design stories"
-      subtitle: "bekijk alle design stories"
-      url: "/design-stories"
-    brands:
-      enable: true
-      title: "Merken"
-    services:
-      enable: true
-      title: "Diensten"
-      subtitle: ""
-      url: "categories/diensten"
-    instagram:
-      enable: true
-      title: "Instagram"
-    about_ashtari:
-      enable: true
-      title: "Lees meer over de bezielers<br />van Ashtari Carpets"
-      subtitle: "A HOUSE WITHOUT A RUG IS LIKE A KISS<br />WITHOUT A HUG <small>REZA ASHTARI x WENDY GUNS</small>"
-      link_url: "background/ashtari_people/"
-      link_text: "Lees meer"
-    craftsmanship:
-      enable: true
-      title: "Film: Authentiek vakmanschap"
-      subtitle: "Van schaap tot tapijt"
-      link_url: "background/craftsmanship/"
-      link_text: "Ontdek het proces"
-
-    menu:
-      - name: "Home"
-        url : "/"
+    nl:
         weight: 1
-      - name: "Nieuwsblog"
-        url : "blog"
+        title: 'Ashtari Carpets'
+        keywords: 'Ashtari Carpets, tapijten, kelims, design, modern, hedendaags'
+        address: >
+            <p><span class="has-text-weight-bold is-uppercase">Ashtari Carpets</span>
+              <a class="has-text-white" href="https://www.google.be/maps/place/Oude+Leeuwenrui+8,+2000+Antwerpen/@51.2267554,4.4038548,16z/" target=_blank>
+              <br>OUDE LEEUWENRUI 8A
+              <br>2000 ANTWERPEN
+              <br>BELGIË
+              </a>
+              <br><br>T <a class="has-text-white" href="tel:003232301770">+32 3 230 17 70</a>
+              <br>F <a class="has-text-white" href="fax:0032184187">+32 3 218 41 87</a>
+              <br><br><span id="mmm"></span>
+              <br><a class="has-text-white" href="https://www.ashtaricarpets.com">www.ashtaricarpets.com</a>
+              <br><br>BTW BE 0567 632 221
+            </p>
+        googletext: 'Ashtari is een eigentijds tapijtenhuis in Antwerpen. Winkel & herstelatelier | unieke stukken | exclusieve tapijten op maat | vrijblijvende thuispresentatie'
+        recent_posts:
+            enable: true
+            title: 'Nieuwsblog'
+            subtitle: 'bekijk alle blog posts'
+            url: '/blog'
+        testimonials:
+            enable: true
+            title: 'Getuigenissen / realisaties'
+            subtitle: 'bekijk alle getuigenissen'
+            url: '/testimonials'
+        designers:
+            enable: true
+            title: 'Design stories'
+            subtitle: 'bekijk alle design stories'
+            url: '/design-stories'
+        brands:
+            enable: true
+            title: 'Merken'
+        services:
+            enable: true
+            title: 'Diensten'
+            subtitle: ''
+            url: 'categories/diensten'
+        instagram:
+            enable: true
+            title: 'Instagram'
+        about_ashtari:
+            enable: true
+            title: 'Lees meer over de bezielers<br />van Ashtari Carpets'
+            subtitle: 'A HOUSE WITHOUT A RUG IS LIKE A KISS<br />WITHOUT A HUG <small>REZA ASHTARI x WENDY GUNS</small>'
+            link_url: 'background/ashtari_people/'
+            link_text: 'Lees meer'
+        craftsmanship:
+            enable: true
+            title: 'Film: Authentiek vakmanschap'
+            subtitle: 'Van schaap tot tapijt'
+            link_url: 'background/craftsmanship/'
+            link_text: 'Ontdek het proces'
+
+        menu:
+            - name: 'Home'
+              url: '/'
+              weight: 1
+            - name: 'Nieuwsblog'
+              url: 'blog'
+              weight: 2
+            - name: 'Design Stories'
+              url: 'category/design-stories'
+              weight: 3
+            - name: 'Pers'
+              url: 'category/ashtari-in-de-pers'
+              weight: 10
+            - name: 'Diensten'
+              url: 'category/diensten'
+              weight: 11
+            - name: 'Contact'
+              url: 'contact'
+              weight: 15
+            - name: 'Webshop'
+              icon: 'icon-shopping-cart'
+              url: 'https://shop.ashtaricarpets.com/'
+              weight: 20
+              newpage: true
+
+    en:
         weight: 2
-      - name: "Design Stories"
-        url : "category/design-stories"
-        weight: 3
-      - name: "Pers"
-        url : "category/ashtari-in-de-pers"
-        weight: 10
-      - name: "Diensten"
-        url: "category/diensten"
-        weight: 11
-      - name: "Contact"
-        url : "contact"
-        weight: 15
-      - name: "Webshop"
-        icon: "icon-shopping-cart"
-        url : "https://shop.ashtaricarpets.com/"
-        weight: 20
-        newpage: true
+        title: 'Ashtari Carpets'
+        keywords: 'Ashtari Carpets, carpets, rugs, kelims, design, modern, contemporary'
+        address: >
+            <p><span class="has-text-weight-bold is-uppercase">Ashtari Carpets</span>
+              <a class="has-text-white" href="https://www.google.be/maps/place/Oude+Leeuwenrui+8,+2000+Antwerpen/@51.2267554,4.4038548,16z/" target=_blank>
+              <br>OUDE LEEUWENRUI 8A
+              <br>2000 ANTWERP
+              <br>BELGIUM
+              </a>
+              <br><br>T <a class="has-text-white" href="tel:003232301770">+32 3 230 17 70</a>
+              <br>F +32 3 218 41 87
+              <br><br><span id="mmm"></span>
+              <br><a class="has-text-white" href="https://www.ashtaricarpets.com">www.ashtaricarpets.com</a>
+              <br><br>VAT BE 0567 632 221
+            </p>
+        googletext: 'Ashtari is a contemporary carpet store in Antwerp. Shop & repair workshop | unique pieces | exclusive custom made carpets | free presentation at home'
+        recent_posts:
+            enable: true
+            title: 'News blog'
+            subtitle: 'view all blog posts'
+            url: '/blog'
+        testimonials:
+            enable: true
+            title: 'Testimonials'
+            subtitle: 'view all testimonials'
+            url: '/testimonials'
+        designers:
+            enable: true
+            title: 'Design stories'
+            subtitle: 'view all design stories'
+            url: '/category/design-stories'
+        brands:
+            enable: true
+            title: 'Brands'
+        services:
+            enable: true
+            title: 'Services'
+            subtitle: ''
+            url: 'category/services'
+        instagram:
+            enable: true
+            title: 'Instagram'
+        about_ashtari:
+            enable: true
+            title: 'The people behind Ashtari Carpets'
+            subtitle: 'A HOUSE WITHOUT A RUG IS LIKE A KISS<br />WITHOUT A HUG <small>REZA ASHTARI x WENDY GUNS</small>'
+            link_url: 'background/ashtari_people/'
+            link_text: 'Read more'
+        craftsmanship:
+            enable: true
+            title: 'Movie: Authentic craftsmanship'
+            subtitle: 'From sheep to carpet'
+            link_url: 'background/craftsmanship/'
+            link_text: 'Discover the process'
 
-  en:
-    weight: 2
-    title: "Ashtari Carpets"
-    keywords: "Ashtari Carpets, carpets, rugs, kelims, design, modern, contemporary"
-    address: >
-      <p><span class="has-text-weight-bold is-uppercase">Ashtari Carpets</span>
-        <a class="has-text-white" href="https://www.google.be/maps/place/Oude+Leeuwenrui+8,+2000+Antwerpen/@51.2267554,4.4038548,16z/" target=_blank>
-        <br>OUDE LEEUWENRUI 8A
-        <br>2000 ANTWERP
-        <br>BELGIUM
-        </a>
-        <br><br>T <a class="has-text-white" href="tel:003232301770">+32 3 230 17 70</a>
-        <br>F +32 3 218 41 87
-        <br><br><span id="mmm"></span>
-        <br><a class="has-text-white" href="https://www.ashtaricarpets.com">www.ashtaricarpets.com</a>
-        <br><br>VAT BE 0567 632 221
-      </p>
-    googletext: "Ashtari is a contemporary carpet store in Antwerp. Shop & repair workshop | unique pieces | exclusive custom made carpets | free presentation at home"
-
-    recent_posts:
-      enable: true
-      title: "News blog"
-      subtitle: "view all blog posts"
-      url: "/blog"
-    testimonials:
-      enable: true
-      title: "Testimonials"
-      subtitle: "view all testimonials"
-      url: "/testimonials"
-    designers:
-      enable: true
-      title: "Design stories"
-      subtitle: "view all design stories"
-      url: "/category/design-stories"
-    brands:
-      enable: true
-      title: "Brands"
-    services:
-      enable: true
-      title: "Services"
-      subtitle: ""
-      url: "category/services"
-    instagram:
-      enable: true
-      title: "Instagram"
-    about_ashtari:
-      enable: true
-      title: "The people behind Ashtari Carpets"
-      subtitle: "A HOUSE WITHOUT A RUG IS LIKE A KISS<br />WITHOUT A HUG <small>REZA ASHTARI x WENDY GUNS</small>"
-      link_url: "background/ashtari_people/"
-      link_text: "Read more"
-    craftsmanship:
-      enable: true
-      title: "Movie: Authentic craftsmanship"
-      subtitle: "From sheep to carpet"
-      link_url: "background/craftsmanship/"
-      link_text: "Discover the process"
-
-    menu:
-      - name: "Home"
-        url : "/"
-        weight: 1
-      - name: "News Blog"
-        url : "blog"
-        weight: 2
-      - name: "Design Stories"
-        url : "category/design-stories"
-        weight: 3
-      - name: "Press"
-        url : "category/press"
-        weight: 10
-      - name: "Services"
-        url: "category/services"
-        weight: 11
-      - name: "Contact"
-        url : "contact"
-        weight: 15
-      - name: "Web shop"
-        icon: "icon-shopping-cart"
-        url : "https://shop.ashtaricarpets.com/"
-        weight: 20
-        newpage: true
+        menu:
+            - name: 'Home'
+              url: '/'
+              weight: 1
+            - name: 'News Blog'
+              url: 'blog'
+              weight: 2
+            - name: 'Design Stories'
+              url: 'category/design-stories'
+              weight: 3
+            - name: 'Press'
+              url: 'category/press'
+              weight: 10
+            - name: 'Services'
+              url: 'category/services'
+              weight: 11
+            - name: 'Contact'
+              url: 'contact'
+              weight: 15
+            - name: 'Web shop'
+              icon: 'icon-shopping-cart'
+              url: 'https://shop.ashtaricarpets.com/'
+              weight: 20
+              newpage: true
 
 params:
-  viewMorePostLink: /blog/
-  author: Ashtari
-  alternatelocales:
-    - en
-    - nl
-  email: info@ashtaricarpets.com
-  copyright: ASHTARI
-  date_format: '2006-01-02'
-  logo: images/logo.svg
-  latitude: '51.2267554'
-  longitude: '4.4038548'
-  widgets:
-    categories: true
-    tags: true
-    search: true
-  opening_hours:
-    enable: true
-  carousel:
-    enable: false
-  vimeo:
-    enable: true
-    id: 194239303
-    ratio: 1296x540
-  livechat:
-    enable: true
-    id: 588c8b0a2889654c4146aa34
-  newsletter:
-    enable: true
-    id: ''
-  features:
-    enable: true
-  instafeed:
-    enable: true
-  social:
-    facebook: 'https://www.facebook.com/Ashtari-Moderne-tapijten-kelims-50898229294/'
-    instagram: 'https://www.instagram.com/ashtaricarpets/'
-    pinterest: 'https://www.pinterest.com/ashtaricarpets/'
-    vimeo: 'https://vimeo.com/ashtaricarpets'
+    viewMorePostLink: /blog/
+    author: Ashtari
+    alternatelocales:
+        - en
+        - nl
+    email: info@ashtaricarpets.com
+    copyright: ASHTARI
+    date_format: '2006-01-02'
+    logo: images/logo.svg
+    latitude: '51.2267554'
+    longitude: '4.4038548'
+    widgets:
+        categories: true
+        tags: true
+        search: true
+    opening_hours:
+        enable: true
+    carousel:
+        enable: false
+    vimeo:
+        enable: true
+        id: 194239303
+        ratio: 1296x540
+    livechat:
+        enable: true
+        id: 588c8b0a2889654c4146aa34
+    newsletter:
+        enable: true
+        id: ''
+    features:
+        enable: true
+    instafeed:
+        enable: true
+    social:
+        facebook: 'https://www.facebook.com/Ashtari-Moderne-tapijten-kelims-50898229294/'
+        instagram: 'https://www.instagram.com/ashtaricarpets/'
+        pinterest: 'https://www.pinterest.com/ashtaricarpets/'
+        vimeo: 'https://vimeo.com/ashtaricarpets'
 Permalinks:
-  blog: '/blog/:filename/'
+    blog: '/blog/:filename/'
 outputs:
-  home:
-    - html
-    - json
-    - rss
-  page:
-    - html
-  section:
-    - html
-    - json
-    - rss
+    home:
+        - html
+        - json
+        - rss
+    page:
+        - html
+    section:
+        - html
+        - json
+        - rss
