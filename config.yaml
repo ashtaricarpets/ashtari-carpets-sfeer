@@ -23,8 +23,8 @@ taxonomies:
 
 module:
     imports:
-        # path: github.com/pieterjandesmedt/hugo-theme-ashtari-carpets-sfeer
-        path: '../../../hugo-themes/ashtari-carpets-sfeer'
+        path: github.com/pieterjandesmedt/hugo-theme-ashtari-carpets-sfeer
+        # path: '../../../hugo-themes/ashtari-carpets-sfeer'
 
 caches:
     getjson:
