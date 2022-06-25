@@ -2,7 +2,7 @@
 title: Ashtari Carpets produces a stunning staircase runner for the newly renovated Cityhall of Antwerp
 date: 2022-06-25
 author: Wendy Guns
-category: achter de schermen
+category: design stories
 description: Reopening of the Cityhall Antwerp
 banner: finaal_4.jpg
 tags:

@@ -2,7 +2,7 @@
 title: From now on you say ‘I do’ on  a new wedding runner in the Antwerp City Hall
 date: 2022-06-25
 author: Wendy Guns
-category: achter de schermen
+category: design stories
 description: Reopening of the Cityhall Antwerp
 banner: trouwloper_4.jpg
 tags:
