@@ -93,12 +93,15 @@ languages:
             - name: 'Home'
               url: '/'
               weight: 1
-            - name: 'Nieuwsblog'
-              url: 'blog'
-              weight: 2
+            # - name: 'Nieuwsblog'
+            #   url: 'blog'
+            #   weight: 2
             - name: 'Design Stories'
               url: 'category/design-stories'
               weight: 3
+            - name: 'Realisaties'
+              url: 'testimonials'
+              weight: 4
             - name: 'Pers'
               url: 'category/ashtari-in-de-pers'
               weight: 10
@@ -175,12 +178,15 @@ languages:
             - name: 'Home'
               url: '/'
               weight: 1
-            - name: 'News Blog'
-              url: 'blog'
-              weight: 2
+            # - name: 'News Blog'
+            #   url: 'blog'
+            #   weight: 2
             - name: 'Design Stories'
               url: 'category/design-stories'
               weight: 3
+            - name: 'Realisations'
+              url: 'testimonials'
+              weight: 4
             - name: 'Press'
               url: 'category/press'
               weight: 10
