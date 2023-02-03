@@ -27,17 +27,12 @@ Original contemporary design showing optimum use of materials.
 
 **Manufacturing:** @ashtaricarpets
 
-**Design:**@wendyguns
+**Design:** @wendyguns
 
-**Sizes** 
-Green Agate 1 
-2m44 x3m05
-
-Green Agate 2
-2m38 x 2m30
-
-Green Agate 3 
-2m x 2m15
+**Sizes:** 
+- Green Agate 1: 2,44m x 3,05m
+- Green Agate 2: 2,38m x 2,30m
+- Green Agate 3: 2,00m x 2,15m
 
 #carpetdesignawards2023 #finalists #cover #domotex #halimagazine #bestmoderndesign #modernrug #deluxe #finalists #wendyguns #ashtaricarpets #rezaashtari #rugdesign #covermagazine #cdashortlist #CDA2023 #rugdesigns #handmaderugindustry #handmaderugs #rugs #carpets #Nepal
 

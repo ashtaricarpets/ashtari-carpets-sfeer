@@ -10,6 +10,7 @@ tags:
 - Cover
 - Domotex
 - Halimagazine
+draft: true
 ---
 Ashtari Carpets is very proud to announce we are shortlisted as a finalist in the international prestigious “Carpet Design Awards 2023” in the category of “Best modern design Deluxe” with the rug “Green Agate” designed by Wendy Guns.
 <!--more-->
