@@ -1,5 +1,5 @@
 ---
-date: 2016-12-18T15:42:01+01:00
+date: 
 title: Prachtig Ferahan Ziegler tapijt in vergaderruimte
 name: Kantoor B.
 location: Antwerpen

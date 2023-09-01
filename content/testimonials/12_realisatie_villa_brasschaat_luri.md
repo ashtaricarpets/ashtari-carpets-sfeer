@@ -1,12 +1,12 @@
 ---
 banner: melkerij_LR.jpg
-date: 2016-12-13T15:43:46+01:00
+date: 
 images:
 - melkerij_LR_2.jpg
 - melkerij_LR_3.jpg
 - melkerij_LR.jpg
 - 2015-05-29 07.27.38.jpg
-category: testimonials
+category: realisaties
 description:
 title: Een mooie qhasqhaï in de leefruimte met een prachtige glans in het zonlicht
 

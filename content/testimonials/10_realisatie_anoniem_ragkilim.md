@@ -4,7 +4,7 @@ tags:
 - patchwork
 - patch
 - vintage
-date: 2016-12-13T15:43:46+01:00
+date: 
 images:
 - oranje_zetel_rag_kilim_modern_interieur.JPG
 category: testimonials

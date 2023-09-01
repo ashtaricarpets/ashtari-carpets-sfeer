@@ -2,7 +2,7 @@
 banner: banner-getuigenis_K_V_shiraz.jpg
 images:
 - shiraz.jpg
-date: 2016-12-16T15:43:17+01:00
+date: 
 title: Mooie oude Shiraz kleurt inkomhal
 name: Mevr. K. V.
 location: Brasschaat

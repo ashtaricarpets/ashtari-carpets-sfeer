@@ -57,8 +57,8 @@ languages:
             url: '/blog'
         testimonials:
             enable: true
-            title: 'Getuigenissen / realisaties'
-            subtitle: 'bekijk alle getuigenissen'
+            title: 'Realisaties'
+            subtitle: 'bekijk alle realisaties'
             url: '/testimonials'
         designers:
             enable: true

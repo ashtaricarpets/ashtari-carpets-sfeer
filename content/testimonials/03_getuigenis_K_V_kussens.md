@@ -7,7 +7,7 @@ images:
 - 4-getuigenis_K_V_kussens.jpg
 - 5-getuigenis_K_V_kussens.jpg
 - 6-getuigenis_K_V_kussens.jpg
-date: 2016-12-16T15:43:17+01:00
+date: 
 title: Decoratieve mix en match van ashtari kussens
 name: Mevr. K. V.
 location: Brasschaat

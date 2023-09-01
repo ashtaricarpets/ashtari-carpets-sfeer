@@ -13,8 +13,8 @@ tags:
 - ikat
 - kelimkussen
 - mafrash
-date: 2016-12-10T15:44:01+01:00
-
+date: 
+draft: true
 ---
 
 Voor onze leefruimte hebben we twee prachtige authentieke poefen uit Iran gevonden. We zochten naar een poef met karakter, met de juiste sfeer en zachte kleuren. Onze beslissing was direct gemaakt.
