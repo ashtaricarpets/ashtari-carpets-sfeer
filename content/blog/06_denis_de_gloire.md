@@ -10,13 +10,14 @@ tags:
 - carpetdesign
 - bespoke carpets
 - tapijten op maat
+- Vertical Meridien
 - maatwerk
-banner: BRAFA_Inspired.jpg
+banner: Vertical_Meridien_Inspired.jpg
 date: 2017-01-21T18:54:10+01:00
 title: Denis de Gloire
 images:
-- brafa.jpg
-description: schilder - kunstenaar
+- Vertical_Meridien.jpg
+description: schilder - Vertical Meridien
 
 ---
 
@@ -36,7 +37,7 @@ Zoals de schilder kunstenaar vinden wij het belangrijk om materialen en grondsto
 
 Het begon allemaal toen we het schilderij van Denis de Gloire zagen op de 'Brussels Antiques and Fine Art Fair'. Op het eerste zicht dacht ik dat ik met een Pollock te maken had en was ik verheugd dit in levende lijve te kunnen meemaken. Het was echter géén Pollock. Het was een kunstwerk van Denis de Gloire. Een bijzonder charmante man uit Waregem, een kunstenaar, die ik later persoonlijk zou leren kennen als een warm en joviaal persoon. We zijn vrienden geworden en het idee is ontstaan om één van zijn werken in het medium tapijt te vertalen. Het tapijt is een interpretatie van het origineel. Het was een hele opgave om de kleuren te matchen, details erin te verwerken en de juiste materialen te kiezen. Het resultaat is fris en innoverend. 
 
-## Denis De Gloire’s "Vertical Meridien" tapijt
+## Denis De Gloire’s Vertical Meridien tapijt
 
 Sinds ongeveer tien jaar schildert Denis De Gloire in zijn ruim atelier in Waregem een  verbazingwekkende hommage aan Jackson Pollock die op 28 januari 1912 in Cody werd geboren en in 1956 in New York is gestorven. Het lijkt bijwijlen alsof De Gloire de beeldende incarnatie van Pollock is geworden, zozeer schildert hij zoals de Amerikaan met een soortgelijke gebarentaal en zin voor koloriet en kleurenschakeringen en geeft hij vorm en kleur aan zijn verering die hem in grote mate inspireert. Ook de geest van Franz Kline, Yves Klein, Engelbert Van Anderlecht, Robert Motherwell, Louis Morris en Mel Ramos waart rond in zijn atelier onder de vorm van doeken die er meteen of zijdelings naar verwijzen. Kenmerkend voor zijn uitermate boeiende démarche is zijn bedenking:
 “ Ik ben geen kunstenaar. Ik maak schilderijen.”
