@@ -1,10 +1,10 @@
 ---
-title: Design Art Night
+title: Collectible Art Fair
 date: 2024-02-22
 author: Wendy Guns
 category: designstories
 description: DESIGN ART NIGHT 7
-banner: designartnight_banner.jpg
+banner: Collectible2024-IGPost.jpg
 tags:
 - Designartnight
 - FosburyandSons
